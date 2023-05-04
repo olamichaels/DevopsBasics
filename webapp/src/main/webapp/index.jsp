@@ -1,8 +1,6 @@
-<h1> Welcome to the theITer...today</h1>
-<h2> We are done here learning QA Automation tools + Devops Tools CI/CD pipelines in course from Scratch</h3>
+<h1> WELCOME TO MY WORLD</h1>
+<h2>FOOTBALL IS LIFE</h2>
 
-<h2> 
-Ladies and Gentlemen,
-This is a test of the CI/CD full automation for our Web App. 
-Let's see if a change in code pushed to remote repo will trigger a change in production
-</h2>
+<h3> 
+THIS IS A BEAUTIFUL WORLD AND I CANT WAIT TO SWIM IN IT. BLESS ME!!!!! THIS IS A BEAUTIFUL PLACE TO DEPLOY MY RESOURCES AND I WANT YOU TO VIEW MY PAGE
+</h3>
